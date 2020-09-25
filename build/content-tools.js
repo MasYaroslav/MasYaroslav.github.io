@@ -1666,7 +1666,7 @@
     ENABLE_DRAG_CLONING: false,
     HELPER_CHAR_LIMIT: 250,
     INDENT: '    ',
-    LANGUAGE: 'ru',
+    LANGUAGE: 'en',
     LINE_ENDINGS: '\n',
     PREFER_LINE_BREAKS: false,
     RESIZE_CORNER_SIZE: 15,
